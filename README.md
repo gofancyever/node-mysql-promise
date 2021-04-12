@@ -1,4 +1,4 @@
-# node-mysql-promise
+# node-mysql-promise 修复异步查询bug版本
 
 
 ## Install
