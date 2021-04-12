@@ -2,7 +2,8 @@
 
 
 ## Install
-	$ npm i -D git+http://192.168.1.201/moudles/node-mysql-promise.git
+	$ npm i -D git+https://github.com/gofancyever/node-mysql-promise.git
+	
 	
 ## Introduction
 node mysql操作封装类，基于promise，借鉴75team开源项目thinkjs中model操作，数据库连接使用node-mysql的连接池。
