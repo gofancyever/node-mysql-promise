@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "node-mysql-promise@0.0.7",
+      "/Users/xy/Documents/node_workspace/UH_RDSP_Drug_Server_Api"
+    ]
+  ],
+  "_from": "git+http://192.168.1.201/moudles/node-mysql-promise.git",
+  "_id": "node-mysql-promise@0.0.7",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/node-mysql-promise",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://192.168.1.201/moudles/node-mysql-promise.git",
+    "rawSpec": "git+http://192.168.1.201/moudles/node-mysql-promise.git",
+    "saveSpec": "git+http://192.168.1.201/moudles/node-mysql-promise.git",
+    "fetchSpec": "http://192.168.1.201/moudles/node-mysql-promise.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+http://192.168.1.201/moudles/node-mysql-promise.git#46903ff7169ec6e13f8554a57a22291fe421486b",
+  "_spec": "git+http://192.168.1.201/moudles/node-mysql-promise.git",
+  "_where": "/Users/myapple/Desktop/work/uh-rdsp-imrep/uh-rdsp-imrep-admin-api",
+  "author": {
+    "name": "ffttpp"
+  },
+  "bugs": {
+    "url": "https://github.com/ffttpp/node-mysql-promise/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "es6-promise": "^2.0.1",
+    "mysql": "^2.5.4"
+  },
+  "deprecated": false,
+  "description": "node mysql model based on promise",
+  "homepage": "https://github.com/ffttpp/node-mysql-promise",
+  "keywords": [
+    "node-mysql",
+    "promise",
+    "mysql-pool",
+    "parse-sql"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "node-mysql-promise",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffttpp/node-mysql-promise.git"
+  },
+  "scripts": {},
+  "version": "0.0.7"
+}
